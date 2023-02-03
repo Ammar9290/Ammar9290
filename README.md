@@ -22,7 +22,7 @@ Hi there! 👋 My name is Ammar and I am a second-year computer science student 
 
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
+    <a href="https://www.linkedin.com/in/ammar-younis-226888264/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
