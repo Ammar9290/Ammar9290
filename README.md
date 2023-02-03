@@ -48,12 +48,12 @@ Hi there! 👋 My name is Ammar and I am a second-year computer science student 
 <p>
     <summary><b>Languages</b></summary>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+        <img alt="c++"
+            src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     </a>
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <a href="https://www.java.org" target="_blank">
+        <img alt="java"
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </a>
     <br />
     <br />
