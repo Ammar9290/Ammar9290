@@ -33,15 +33,12 @@ Hi there! 👋 My name is Ammar and I am a second-year computer science student 
         <img alt="instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://github.com/abdullahqaisar" target="_blank">
+    <a href="https://github.com/Ammar9290" target="_blank">
         <img alt="Gmail"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="abdullahqaisar" /></p>
 
 ## 🛠️ My Skills
 
