@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hey , I'm Ammar Younis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Abdullah and I am a final-year computer science student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the MERN stack through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hi there! 👋 My name is Ammar and I am a second-year computer science student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the c++ through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
 ## 👯 Connect with me
 <p>
@@ -26,8 +26,12 @@ Hi there! 👋 My name is Abdullah and I am a final-year computer science studen
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahqaisarr@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ammary9290111@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+        <a href="http://wwww.instagram.com/its_ammaryounis/" target="_blank">
+        <img alt="instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://github.com/abdullahqaisar" target="_blank">
         <img alt="Gmail"
