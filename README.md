@@ -52,6 +52,10 @@ Hi there! 👋 My name is Ammar and I am a second-year computer science student 
         <img alt="java"
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </a>
+   <a href="https://www.javaScript.org" target="_blank">
+        <img alt="javaScript"
+            src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)">
+    </a>
     <br />
     <br />
     <summary><b>Frontend Developement</b></summary>
